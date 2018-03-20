@@ -1,0 +1,17 @@
+.container{
+    height: 510px;
+    width: 20%;
+    background-color:rgb(211, 53, 53);
+    border-radius: 15px;
+     font-family: Cambria;
+     font-size: 20px;
+     text-decoration-color: black;
+     
+     
+
+
+   }
+   li a{ 
+       color:black;
+   }
+   

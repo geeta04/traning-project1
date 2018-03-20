@@ -1,0 +1,36 @@
+
+.row{
+    height: 100px;
+    width: 100%;
+    border-radius: 20px;
+   }
+   #search1{
+       float:right;
+   }
+
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(121, 13, 13);
+    border-radius: 20px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 36px 32px;
+    font-family: Cambria;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}

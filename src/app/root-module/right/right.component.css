@@ -1,0 +1,20 @@
+.container{
+    margin-top: -510px;
+    float:right;
+    
+    height: 510px;
+    width: 79%;
+    background-color:rgb(253, 114, 172);
+    border-radius:15px;
+   }
+
+.row{
+    margin:20px;
+    text-align:justify;
+    font-size: 17px;
+    
+}
+#pic{
+    margin-left:400px;
+    margin-top:100px;
+}
